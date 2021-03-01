@@ -1020,6 +1020,10 @@ figure{
         padding-left: 0;
         padding-right: 0;
     }
+
+    .fa {
+        margin-top: 10px;
+    }
 }
 
 @media (max-width: 767px) {
