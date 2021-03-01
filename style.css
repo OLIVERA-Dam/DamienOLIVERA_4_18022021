@@ -709,7 +709,6 @@ h4 {
 }
 
 .white {
-  
     font-weight: bold;
 }
 
@@ -798,12 +797,13 @@ h4 {
 
 figure{ 
     padding-top: 65px;
+    color: #000000;
+    font-weight: bold;
     margin: auto ;
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    font-weight: 600;
     max-width: 850px;
 }
 
