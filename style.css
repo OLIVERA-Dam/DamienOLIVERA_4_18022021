@@ -710,7 +710,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
-    text-shadow: 3px 3px 3px #e0642b;
+    font-weight: bold;
 }
 
 .portfolio-thumb {
@@ -787,31 +787,23 @@ h4 {
     border-color: #364577!important;
 }
 
-.bg-dots-bg {
-    background-image: url("img/dots-bg.png");
-}
-
-.bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
-}
-
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/la-chouette-agence-banniere.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.webp");
 }
 
 figure{ 
-    padding-top: 30px;
+    padding-top: 65px;
     margin: auto ;
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
     font-weight: 600;
-    max-width: 650px;
+    max-width: 850px;
 }
 
 @media (max-width: 1024px) {
