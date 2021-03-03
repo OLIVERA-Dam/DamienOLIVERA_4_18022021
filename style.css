@@ -654,7 +654,7 @@ p {
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
+    max-width: 750px;
     margin: auto auto auto auto;
 }
 
@@ -680,6 +680,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    margin: 0 5px 0 5px;
 }
 
 h3 {
@@ -807,6 +808,7 @@ figure{
     max-width: 850px;
 }
 
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
@@ -899,7 +901,7 @@ figure{
         border-top: 1px solid rgba(0, 0, 0, .2);
         float: none!important;
     }
-    .navbar.row {
+    .navbar {
         margin-left: 0;
         margin-right: 0;
     }
@@ -1037,7 +1039,7 @@ figure{
     }
 
     h2{
-        font-size: 18px;
+        font-size: 17px;
         line-height: none;
     }
 
