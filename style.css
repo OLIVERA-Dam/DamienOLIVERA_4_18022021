@@ -1024,10 +1024,30 @@ figure{
     .fa {
         margin-top: 10px;
     }
+
 }
 
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
+    }
+
+    p{
+        font-size: 15px; 
+    }
+
+    h2{
+        font-size: 18px;
+        line-height: none;
+    }
+
+    .col-sm-12{
+        padding: 0;
+    }
+
+    .social{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
     }
 }
