@@ -653,6 +653,25 @@ p {
     font-size: 17px;
 }
 
+address{
+    color: black;
+}
+
+.address{
+    border: #000000;
+}
+
+.contact, .formulaire{
+    margin: 5px 0;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.service,.réalisation{
+    font-weight: bold;
+    
+}
+
 .tight-width-whitespace {
     max-width: 750px;
     margin: auto auto auto auto;
